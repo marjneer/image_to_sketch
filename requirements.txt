@@ -1,5 +1,0 @@
-streamlit
-opencv-python
-numpy
-PIL
-streamlit_lottie
